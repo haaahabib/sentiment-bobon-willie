@@ -2,8 +2,9 @@
 
 ## Cara Pakai
 1. Install dependencies  
-```bash
+```
 pip install -r requirements.txt
+```
 
 2. Jalankan file
 - scraping.ipynb (untuk proses scraping)
